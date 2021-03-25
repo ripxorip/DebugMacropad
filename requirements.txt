@@ -102,5 +102,5 @@ pyobjc-framework-VideoToolbox==6.2
 pyobjc-framework-Vision==6.2
 pyobjc-framework-WebKit==6.2
 pyserial==3.4
-PyYAML==5.3.1
+PyYAML==5.4
 serial==0.0.97
